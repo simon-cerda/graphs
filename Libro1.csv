@@ -1,0 +1,10 @@
+Name;EmployeeId;RM_Name;Role;programming_skill;hobby
+Erick;1;Francisco_Dagnino;AVP;python;reading
+Felipe;2;Erick;GM;python;trackSimulator
+Mark;3;Erick;RM;Java;football
+Simon;4;Felipe;BA;JS;movies
+Maka;5;Felipe;BA;SQL;travel
+Pablo;6;Erick;PE;JS;football
+Vivek;7;Erick;GM;python;travel
+Carolina;8;Mark;GM;SQL;baking
+Sebastian;9;Mark;PE;python;volleyball
