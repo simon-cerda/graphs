@@ -10,3 +10,5 @@ MERGE (e)-[:works_for]->(b)
 MERGE (e)-[:skillset]->(s)
 MERGE (e)-[:hobby] -> (h)
 return *;
+
+https://cloud.google.com/architecture/ml-on-gcp-best-practices#use-tensorflow-extended-when-leveraging-tensorflow-ecosystem
